@@ -29,8 +29,10 @@
     </a>
   </p>
 
-  <p align="center">
-  ![Snake animation](https://github.com/Matheus-Aveiro/Matheus-Aveiro/blob/main/snake.svg)
-  </p>
+  <div align="center">
+
+![Snake animation](https://github.com/Matheus-Aveiro/Matheus-Aveiro/blob/main/snake.svg)
+
+  </div>
 
 </h4>
