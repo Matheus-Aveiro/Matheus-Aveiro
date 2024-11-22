@@ -20,6 +20,8 @@
 
 📬 Me chama pra bater um papo sobre tecnologia, trocar ideias sobre desenvolvimento, ou até mesmo discutir quem é o melhor piloto de One Piece! Vamos transformar suas ideias em realidade! 🚀
 
+🚨 Meu GitHub é novinho em folha! O antigo... bem, ele desapareceu no limbo digital! 😅 Mas não se preocupe, estou aos poucos repostando meus projetos antigos e adicionando muitos novos por aqui. Fique à vontade para dar uma olhada e acompanhar meu progresso!
+
   <p align="center">
     <a href="https://www.instagram.com/aveiromat/" target="_blank">
       <img alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
